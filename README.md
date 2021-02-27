@@ -2,7 +2,7 @@
 minecraft texture pack
 
 2/27/21
-updated new blocks
+updated new blocks 
 changed iron ore
 bunch of small shit
 
